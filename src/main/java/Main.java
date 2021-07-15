@@ -28,9 +28,9 @@ public class Main {
 
         createDir(gameDirectory);
             createDir(srcDir);
+            createDir(mainDir);
                 createFile(mainDoc);
                 createFile(utilsDoc);
-            createDir(mainDir);
             createDir(testDir);
             createDir(resDir);
                 createDir(drawablesDir);
